@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"product_id","INTEGER","4","4","0"
+"product_name","STRING","45","0","0"
+"category_id","INTEGER","2","2","0"
+"department_id","INTEGER","2","2","0"
+"product_price","DECIMAL","7","4","2"
